@@ -4,7 +4,7 @@
   "description": "get familiar using nodemailer",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "rafaa benrhouma",
   "license": "ISC",
